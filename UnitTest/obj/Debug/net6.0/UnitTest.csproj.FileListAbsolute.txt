@@ -1,0 +1,5 @@
+D:\Study\MOK\UnitTest\obj\Debug\net6.0\UnitTest.csproj.AssemblyReference.cache
+D:\Study\MOK\UnitTest\obj\Debug\net6.0\UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\MOK\UnitTest\obj\Debug\net6.0\UnitTest.AssemblyInfoInputs.cache
+D:\Study\MOK\UnitTest\obj\Debug\net6.0\UnitTest.AssemblyInfo.cs
+D:\Study\MOK\UnitTest\obj\Debug\net6.0\UnitTest.csproj.CoreCompileInputs.cache

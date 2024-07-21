@@ -1,0 +1,208 @@
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\CoverletSourceRootsMapping
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\testhost.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\Labs.deps.json
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\Labs.runtimeconfig.json
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\Labs.exe
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\testhost.exe
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\UnitTest.deps.json
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\UnitTest.runtimeconfig.json
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\UnitTest.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\UnitTest.pdb
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\Labs.dll
+D:\Study\MOK\UnitTest\bin\Debug\net6.0-windows\Labs.pdb
+D:\Study\MOK\UnitTest\obj\Debug\net6.0-windows\UnitTest.csproj.AssemblyReference.cache
+D:\Study\MOK\UnitTest\obj\Debug\net6.0-windows\UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\MOK\UnitTest\obj\Debug\net6.0-windows\UnitTest.AssemblyInfoInputs.cache
+D:\Study\MOK\UnitTest\obj\Debug\net6.0-windows\UnitTest.AssemblyInfo.cs
+D:\Study\MOK\UnitTest\obj\Debug\net6.0-windows\UnitTest.csproj.CoreCompileInputs.cache
+D:\Study\MOK\UnitTest\obj\Debug\net6.0-windows\UnitTest.csproj.CopyComplete
+D:\Study\MOK\UnitTest\obj\Debug\net6.0-windows\UnitTest.dll
+D:\Study\MOK\UnitTest\obj\Debug\net6.0-windows\refint\UnitTest.dll
+D:\Study\MOK\UnitTest\obj\Debug\net6.0-windows\UnitTest.pdb
+D:\Study\MOK\UnitTest\obj\Debug\net6.0-windows\UnitTest.genruntimeconfig.cache
+D:\Study\MOK\UnitTest\obj\Debug\net6.0-windows\ref\UnitTest.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\CoverletSourceRootsMapping
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\testhost.exe
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\testhost.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\Crypto.deps.json
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\Crypto.runtimeconfig.json
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\Crypto.exe
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\UnitTest.deps.json
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\UnitTest.runtimeconfig.json
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\UnitTest.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\UnitTest.pdb
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\Crypto.dll
+D:\3rd course\Cryptology\UnitTest\bin\Debug\net6.0-windows\Crypto.pdb
+D:\3rd course\Cryptology\UnitTest\obj\Debug\net6.0-windows\UnitTest.csproj.AssemblyReference.cache
+D:\3rd course\Cryptology\UnitTest\obj\Debug\net6.0-windows\UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rd course\Cryptology\UnitTest\obj\Debug\net6.0-windows\UnitTest.AssemblyInfoInputs.cache
+D:\3rd course\Cryptology\UnitTest\obj\Debug\net6.0-windows\UnitTest.AssemblyInfo.cs
+D:\3rd course\Cryptology\UnitTest\obj\Debug\net6.0-windows\UnitTest.csproj.CoreCompileInputs.cache
+D:\3rd course\Cryptology\UnitTest\obj\Debug\net6.0-windows\UnitTest.dll
+D:\3rd course\Cryptology\UnitTest\obj\Debug\net6.0-windows\refint\UnitTest.dll
+D:\3rd course\Cryptology\UnitTest\obj\Debug\net6.0-windows\UnitTest.pdb
+D:\3rd course\Cryptology\UnitTest\obj\Debug\net6.0-windows\UnitTest.genruntimeconfig.cache
+D:\3rd course\Cryptology\UnitTest\obj\Debug\net6.0-windows\ref\UnitTest.dll
+D:\3rd course\Cryptology\UnitTest\obj\Debug\net6.0-windows\UnitTest.csproj.Up2Date

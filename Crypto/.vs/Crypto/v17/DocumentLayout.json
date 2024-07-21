@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3rd course\\Cryptology\\Crypto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD347E01-033F-40FF-A73F-B161748C57A8}|Crypto.csproj|d:\\3rd course\\cryptology\\crypto\\classes\\gamma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD347E01-033F-40FF-A73F-B161748C57A8}|Crypto.csproj|solutionrelative:classes\\gamma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD347E01-033F-40FF-A73F-B161748C57A8}|Crypto.csproj|D:\\3rd course\\Cryptology\\Crypto\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD347E01-033F-40FF-A73F-B161748C57A8}|Crypto.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD347E01-033F-40FF-A73F-B161748C57A8}|Crypto.csproj|d:\\3rd course\\cryptology\\crypto\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD347E01-033F-40FF-A73F-B161748C57A8}|Crypto.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C514F07B-EBEB-4DE2-8C3E-661ACDD5F999}|..\\UnitTest\\UnitTest.csproj|d:\\3rd course\\cryptology\\unittest\\gammatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 302,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GammaTests.cs",
+              "DocumentMoniker": "D:\\3rd course\\Cryptology\\UnitTest\\GammaTests.cs",
+              "RelativeDocumentMoniker": "..\\UnitTest\\GammaTests.cs",
+              "ToolTip": "D:\\3rd course\\Cryptology\\UnitTest\\GammaTests.cs",
+              "RelativeToolTip": "..\\UnitTest\\GammaTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:35:17.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gamma.cs",
+              "DocumentMoniker": "D:\\3rd course\\Cryptology\\Crypto\\Classes\\Gamma.cs",
+              "RelativeDocumentMoniker": "Classes\\Gamma.cs",
+              "ToolTip": "D:\\3rd course\\Cryptology\\Crypto\\Classes\\Gamma.cs",
+              "RelativeToolTip": "Classes\\Gamma.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowC0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:12:16.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\3rd course\\Cryptology\\Crypto\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\3rd course\\Cryptology\\Crypto\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T08:08:09.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\3rd course\\Cryptology\\Crypto\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\3rd course\\Cryptology\\Crypto\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAABwBAAAAAAAAAAAIwA0BAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T20:42:15.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 98,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
